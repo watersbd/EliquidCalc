@@ -1,2 +1,2 @@
 # EliquidCalc
-E-liquid calculator for DIY mixing
+E-liquid calculator for DIY mixing.
